@@ -1,2 +1,2 @@
-# MLOP-ZOOMCAMP
+# ZOOMCAMP
 Machine learning zoom camp.
