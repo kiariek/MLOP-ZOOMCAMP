@@ -1,2 +1,2 @@
 # ZOOMCAMP
-Machine learning zoom camp.
+Machine learning zoom camp
